@@ -111,3 +111,4 @@ Gentelella is licensed under The MIT License (MIT). Which means that you can use
 
 Project is developed and maintained by [Colorlib](https://colorlib.com/ "Colorlib - Make Your First Blog") and Aigars Silkalns
 gentela-gh-page-AGENT-
+#gentela-gh-pages-AGENT-
